@@ -1,0 +1,19 @@
+{
+  "name": "datadog/php-datadog_wrapper",
+  "type": "library",
+  "description": "Datadog PHP wrapper made simple",
+  "keywords": ["DataDog", "PHP", "API"],
+  "homepage": "https://www.datadoghq.com/",
+  "authors": [
+    {
+      "name": "Robert Paleka",
+      "email": "paleka@gmail.com",
+      "role": "Developer"
+    },
+  "require": {
+    "guzzlehttp/guzzle": "^6.2",
+  },
+  "autoload": {
+    "classmap": ["src/"]
+  }
+}
