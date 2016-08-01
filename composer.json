@@ -5,6 +5,8 @@
   "keywords": ["DataDog", "PHP", "API"],
   "homepage": "https://www.datadoghq.com/",
   "license": "MIT",
+  "minimum-stability": "dev",
+  "prefer-stable" : true,
   "authors": [
     {
       "name": "Robert Paleka",
