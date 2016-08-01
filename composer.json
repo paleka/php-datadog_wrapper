@@ -1,5 +1,5 @@
 {
-  "name": "datadog/php-datadog_wrapper",
+  "name": "stat-datadog/php-datadog_wrapper",
   "type": "library",
   "description": "Datadog PHP wrapper made simple",
   "keywords": ["DataDog", "PHP", "API"],
