@@ -4,7 +4,9 @@ After using it every day at work, this was we ended up with:
 
 
 ## Usage
-
+``` php
+composer require stat-datadog/php-datadog_wrapper
+``` 
 Set the datadog api_key in the config.ini (src/config.ini). 
 You can find you api and app keys [HERE](https://app.datadoghq.com/account/settings#api) (https://app.datadoghq.com/account/settings#api).
 
